@@ -10,9 +10,9 @@ public class Petre {
 	f.petrol();
 	f.ready();
 	
-	//Car1 c = new Car1();  method 2
-	//c.petrol();
-	//c.ready();
+//	Car1 c = new Car1(); // method 2
+//	c.petrol();
+//	c.ready();
 	}
 	
 	public void flyAeroplane()

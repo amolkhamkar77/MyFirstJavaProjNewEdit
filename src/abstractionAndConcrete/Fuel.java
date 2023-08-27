@@ -3,7 +3,7 @@ package abstractionAndConcrete;
 public abstract class Fuel { //Abstract class 
 	
 	abstract public void petrol();// incomplete method or abstract method
-	// i.e No method body and no printing statement
+	// i.e No method body ..i.e no printing statement
 	
 	public void ready() //complete method or non abstract method
 	{
